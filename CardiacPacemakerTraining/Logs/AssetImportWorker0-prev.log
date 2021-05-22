@@ -1,0 +1,1138 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home China; OS build 19041.985; Version 2004; 64bit' Language: 'zh' Physical Memory: 8070 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/31179/Desktop/Deakin/SIT283/CardiacPacemakerTraining
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62070
+Successfully changed project path to: C:/Users/31179/Desktop/Deakin/SIT283/CardiacPacemakerTraining
+C:/Users/31179/Desktop/Deakin/SIT283/CardiacPacemakerTraining
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 161.10 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 5.68 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/31179/Desktop/Deakin/SIT283/CardiacPacemakerTraining/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f11)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   27.21.14.6089
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56176
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003041 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 48.31 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.055 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.011657 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+[XR] OVRP version 1.60.0
+Mono: successfully reloaded assembly
+- Completed reload, in  1.266 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.98 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.14 ms.
+Unloading 1795 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.8 MB.
+
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 2198.
+Total: 3.962400 ms (FindLiveObjects: 0.645200 ms CreateObjectMapping: 0.172400 ms MarkObjects: 3.015200 ms  DeleteObjects: 0.128000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/OriginalScripts/CameraMove.cs
+  artifactKey: Guid(8222fb981244314408a2b5ab35059af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/OriginalScripts/CameraMove.cs using Guid(8222fb981244314408a2b5ab35059af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f8b7edecb82838a861c90a494438074') in 0.053851 seconds
+  Import took 0.059988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 543.626845 seconds.
+  path: Assets/PulsePhysiologyEngine/Scenes/Dev/ScreenSpace.unity
+  artifactKey: Guid(38fb26ac861956e4a9a893b05b00a940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PulsePhysiologyEngine/Scenes/Dev/ScreenSpace.unity using Guid(38fb26ac861956e4a9a893b05b00a940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e469d07cfe41456ae4ca9a8237a3d87b') in 0.031257 seconds
+  Import took 0.035632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.072824 seconds.
+  path: Assets/PulsePhysiologyEngine/Scenes/Dev/RandomNumber.unity
+  artifactKey: Guid(905f41dfef8dc954b997543a8da6e77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PulsePhysiologyEngine/Scenes/Dev/RandomNumber.unity using Guid(905f41dfef8dc954b997543a8da6e77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e78b3b4f11302d3c0d2dfecfa245e0b5') in 0.008256 seconds
+  Import took 0.012395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.605490 seconds.
+  path: Assets/PulsePhysiologyEngine/Scenes/Dev/CreateActionOnClick.unity
+  artifactKey: Guid(930c58ba897b7b147a2a9fb98472f38c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PulsePhysiologyEngine/Scenes/Dev/CreateActionOnClick.unity using Guid(930c58ba897b7b147a2a9fb98472f38c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95918c1ec38cb4ebd00b00ea2c33059d') in 0.008095 seconds
+  Import took 0.011641 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.022246 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.15 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.514 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+Unloading 1736 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.0 MB.
+System memory in use after: 87.1 MB.
+
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 2202.
+Total: 2.869300 ms (FindLiveObjects: 0.253500 ms CreateObjectMapping: 0.098100 ms MarkObjects: 2.105600 ms  DeleteObjects: 0.411000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 133.144118 seconds.
+  path: Assets/OriginalMaterials/BedMaterial.mat
+  artifactKey: Guid(7fcc70f4d477d5d44ad3740bb1a85b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/OriginalMaterials/BedMaterial.mat using Guid(7fcc70f4d477d5d44ad3740bb1a85b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc598d6db05f74c68543776434ed571c') in 0.149994 seconds
+  Import took 0.154894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.737471 seconds.
+  path: Assets/Resources/ONSPSettings.asset
+  artifactKey: Guid(f8320e5263f5071409e7d6037232ee46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/ONSPSettings.asset using Guid(f8320e5263f5071409e7d6037232ee46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4b0095af90ca433e34630f4b1fde2df') in 0.009980 seconds
+  Import took 0.014226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Resources/OVRPlatformToolSettings.asset
+  artifactKey: Guid(673f14bddfbcf4447977f2cf8d47bda4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/OVRPlatformToolSettings.asset using Guid(673f14bddfbcf4447977f2cf8d47bda4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fbab5b972e565ca68edb40433dc2d9a') in 0.011470 seconds
+  Import took 0.014978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.654212 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66aa3d179da82930a00503845177087c') in 0.010065 seconds
+  Import took 0.013433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.365217 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(72a17c4c9e37b79499eee3960ee5dd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(72a17c4c9e37b79499eee3960ee5dd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f1e282d73c7ab9b21c21a9ff8c96cb5') in 0.009639 seconds
+  Import took 0.013253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 943.334110 seconds.
+  path: Assets/OriginalScripts/SampleCode
+  artifactKey: Guid(9ae17570539f0dd4f942c2ebcfcea5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/OriginalScripts/SampleCode using Guid(9ae17570539f0dd4f942c2ebcfcea5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88b1d30c84334c59c579581d49a5050f') in 0.009045 seconds
+  Import took 0.015718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.508157 seconds.
+  path: Assets/OriginalScripts/GameController.cs
+  artifactKey: Guid(529c3148d45619b4bbdb2e8b507515ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/OriginalScripts/GameController.cs using Guid(529c3148d45619b4bbdb2e8b507515ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5981dac100e440566b0f67bd4e9c170f') in 0.010477 seconds
+  Import took 0.013815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000555 seconds.
+  path: Assets/OriginalScripts/GameController.cs
+  artifactKey: Guid(529c3148d45619b4bbdb2e8b507515ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/OriginalScripts/GameController.cs using Guid(529c3148d45619b4bbdb2e8b507515ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5981dac100e440566b0f67bd4e9c170f') in 0.004190 seconds
+  Import took 0.007368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.873981 seconds.
+  path: Assets/OriginalScripts/HeartBeat.cs
+  artifactKey: Guid(7c8e5796b33f48f4697b6cdfe26931cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/OriginalScripts/HeartBeat.cs using Guid(7c8e5796b33f48f4697b6cdfe26931cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef54ae23c0cccfb3d67268270326650e') in 0.008686 seconds
+  Import took 0.011540 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.021530 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.63 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.22 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.621 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.27 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.15 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.8 MB.
+System memory in use after: 90.8 MB.
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2262.
+Total: 6.090900 ms (FindLiveObjects: 0.590000 ms CreateObjectMapping: 0.201800 ms MarkObjects: 4.865400 ms  DeleteObjects: 0.430700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.018750 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.56 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.24 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.298 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.14 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.8 MB.
+System memory in use after: 90.9 MB.
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2266.
+Total: 2.696100 ms (FindLiveObjects: 0.271800 ms CreateObjectMapping: 0.085400 ms MarkObjects: 1.784200 ms  DeleteObjects: 0.553600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 5220.718034 seconds.
+  path: Assets/Oculus/VR/Scripts/Editor/Oculus.VR.Scripts.Editor.asmdef
+  artifactKey: Guid(7305c54a43f3814439df347c7519653e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/Editor/Oculus.VR.Scripts.Editor.asmdef using Guid(7305c54a43f3814439df347c7519653e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f1ffffd21f73f929762c778f930de02') in 0.022832 seconds
+  Import took 0.028296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.397388 seconds.
+  path: Assets/Oculus/Platform/Samples/NetChat/MainScene.unity
+  artifactKey: Guid(4a5c060329791374cba1196f7ac36ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Platform/Samples/NetChat/MainScene.unity using Guid(4a5c060329791374cba1196f7ac36ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c643dccf14fe322243a45288c5634dc7') in 0.017705 seconds
+  Import took 0.020800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.698580 seconds.
+  path: Assets/Oculus/Avatar/Samples/SocialStarter/Assets/MainScene.unity
+  artifactKey: Guid(236a5f96528802e47a70d6e47ebd3c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Avatar/Samples/SocialStarter/Assets/MainScene.unity using Guid(236a5f96528802e47a70d6e47ebd3c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea9c8c5cdcf659e7eb1582da78f3a1aa') in 0.003943 seconds
+  Import took 0.008157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.487036 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/HandsInteractionTrainScene.unity
+  artifactKey: Guid(a9c41884ef0c347628dfd8a4af4a022e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/HandsInteractionTrainScene.unity using Guid(a9c41884ef0c347628dfd8a4af4a022e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b99cd863a1a91718041d5a94852642eb') in 0.024382 seconds
+  Import took 0.034041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.799900 seconds.
+  path: Assets/XR/XRGeneralSettings.asset
+  artifactKey: Guid(7aee42e32341ae14fb7a2d22c0e814ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/XRGeneralSettings.asset using Guid(7aee42e32341ae14fb7a2d22c0e814ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f38196f52447cbb8b30701eece55723') in 0.016369 seconds
+  Import took 0.020236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/ControllerBoxTextures/controller_plain_DiffuseGlossiness.png
+  artifactKey: Guid(ed6778a8aa0ab7144ba6379c9135942b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/ControllerBoxTextures/controller_plain_DiffuseGlossiness.png using Guid(ed6778a8aa0ab7144ba6379c9135942b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34ccb8bf6ef7ea9a1487963930c3dc09') in 0.580957 seconds
+  Import took 0.583981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Oculus/SampleFramework/Core/CustomHands/Models/HandPoseDefaultPf.prefab
+  artifactKey: Guid(35525acb4c3b75c4a8c4dc2c117427be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/CustomHands/Models/HandPoseDefaultPf.prefab using Guid(35525acb4c3b75c4a8c4dc2c117427be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bced5005baa87047db897eab10d972c') in 0.019253 seconds
+  Import took 0.022429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Oculus/Spatializer/scenes/sounds/horse.ogg
+  artifactKey: Guid(494bd1721199a40c5a79fa3011793556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Spatializer/scenes/sounds/horse.ogg using Guid(494bd1721199a40c5a79fa3011793556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e613e52818e0d304a80cc703792f262') in 0.061722 seconds
+  Import took 0.065341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Oculus/SampleFramework/Core/TouchControllers/Animations/l_controller_joy_SE_anim.fbx
+  artifactKey: Guid(983c3f6cea2a3ea4fad3e697bea1746f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/TouchControllers/Animations/l_controller_joy_SE_anim.fbx using Guid(983c3f6cea2a3ea4fad3e697bea1746f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4615fe34b5105ab39f53763944680c8d') in 0.045525 seconds
+  Import took 0.048877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Left.fbx
+  artifactKey: Guid(8b83018900d13bb4f8e0ad895cb004e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Left.fbx using Guid(8b83018900d13bb4f8e0ad895cb004e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7701db6f7ad3154d102249a1b1ba62b') in 0.420717 seconds
+  Import took 0.425054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/Locomotion/Models/WorldGeo.fbx
+  artifactKey: Guid(fb9ba08c9d86b5a409b5fe2eb4f02f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/Locomotion/Models/WorldGeo.fbx using Guid(fb9ba08c9d86b5a409b5fe2eb4f02f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31bb6d01b1f54290093f94246f3a9c35') in 0.418042 seconds
+  Import took 0.424534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/diorama_paint_diorama_bg_elements_DiffuseGlossiness.png
+  artifactKey: Guid(78fba6399dff89e4faa8f52eb005a8aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/diorama_paint_diorama_bg_elements_DiffuseGlossiness.png using Guid(78fba6399dff89e4faa8f52eb005a8aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68600bdbd92451d3d2dd7bdd7011b77a') in 0.529780 seconds
+  Import took 0.533873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/diorama_paint_diorama_main_elements_DiffuseGlossiness.png
+  artifactKey: Guid(67dce7e8b86381241a992e155b539e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/diorama_paint_diorama_main_elements_DiffuseGlossiness.png using Guid(67dce7e8b86381241a992e155b539e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cddb336bf27391a7628a657156be9e9a') in 0.466163 seconds
+  Import took 0.469432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_2048.png
+  artifactKey: Guid(b3e87b1024f5fa8408d004b398e7b0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_2048.png using Guid(b3e87b1024f5fa8408d004b398e7b0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa53979f1df38443050703a8cbf5f698') in 0.181338 seconds
+  Import took 0.184336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/Locomotion/Models/GroundSection02.fbx
+  artifactKey: Guid(01c7510ddb875423c92d04adea8f80e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/Locomotion/Models/GroundSection02.fbx using Guid(01c7510ddb875423c92d04adea8f80e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd74c97f7d32b8dd6e7771b95516616b4') in 4.126187 seconds
+  Import took 4.130345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/Locomotion/Models/GroundSection01.fbx
+  artifactKey: Guid(3b3b1c9d534014038a8a08e1d286b9f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/Locomotion/Models/GroundSection01.fbx using Guid(3b3b1c9d534014038a8a08e1d286b9f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db94ce43bc9caa741859665646634532') in 3.587656 seconds
+  Import took 3.591977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/DistanceGrab/Prefabs/GrabOffsetsAndPoses/GrabOffsetSportsBottle.prefab
+  artifactKey: Guid(802a502bbd864114696daa6c2001c156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/DistanceGrab/Prefabs/GrabOffsetsAndPoses/GrabOffsetSportsBottle.prefab using Guid(802a502bbd864114696daa6c2001c156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f870796970e6ce117c1c27ebcbe84afb') in 0.009023 seconds
+  Import took 0.012441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Oculus/Spatializer/scenes/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Constructor.FBX
+  artifactKey: Guid(449b48f7eb5d87a4baaa5fb73f875a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Spatializer/scenes/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Constructor.FBX using Guid(449b48f7eb5d87a4baaa5fb73f875a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb80c6be584bfbf084a0d633d33bfa81') in 0.303368 seconds
+  Import took 0.307740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_256.png
+  artifactKey: Guid(7d8da3d06466cc04da8c020819170a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_256.png using Guid(7d8da3d06466cc04da8c020819170a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e93197007a06edbe12006fa7145f107') in 0.024697 seconds
+  Import took 0.028997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_1024.png
+  artifactKey: Guid(502d438d2584976448c3cdb146ed836d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_1024.png using Guid(502d438d2584976448c3cdb146ed836d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00b1e568fb35f342963dcd3c7bbedd56') in 0.159544 seconds
+  Import took 0.171068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/PulsePhysiologyEngine/Data/pulse_mark.bmp
+  artifactKey: Guid(27fa307f0deee8a4eb419735466dcad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PulsePhysiologyEngine/Data/pulse_mark.bmp using Guid(27fa307f0deee8a4eb419735466dcad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ba4d7b2fb3af78ec9c6e666583f99d4') in 0.060848 seconds
+  Import took 0.067164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Resources/DOTweenSettings.asset
+  artifactKey: Guid(c1f7140939eb9f94284cc335d42fc9a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/DOTweenSettings.asset using Guid(c1f7140939eb9f94284cc335d42fc9a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e39c6c44f31a3ce82ac28237c0f8dc7') in 0.020195 seconds
+  Import took 0.027200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/DistanceGrab/Prefabs/GrabOffsetsAndPoses/GrabOffsetPingPongBall.prefab
+  artifactKey: Guid(02215b6c75ce0c241876390fdabaad25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/DistanceGrab/Prefabs/GrabOffsetsAndPoses/GrabOffsetPingPongBall.prefab using Guid(02215b6c75ce0c241876390fdabaad25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e26a1fcfbe4239a6912ba06bb3c12005') in 0.022489 seconds
+  Import took 0.029412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Oculus/Spatializer/scenes/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Textures/constructor_diffuse.png
+  artifactKey: Guid(97b050d43ac7c4d2b9f6cbb587650761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Spatializer/scenes/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Textures/constructor_diffuse.png using Guid(97b050d43ac7c4d2b9f6cbb587650761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f83a7bfc78d3b8b0bf80b451135e0f12') in 0.148321 seconds
+  Import took 0.153617 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012908 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.12 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.591 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.59 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.16 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.6 MB.
+System memory in use after: 116.6 MB.
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 2281.
+Total: 2.649100 ms (FindLiveObjects: 0.275500 ms CreateObjectMapping: 0.132800 ms MarkObjects: 2.162400 ms  DeleteObjects: 0.076400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009895 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.20 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.17 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.836 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.14 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.5 MB.
+System memory in use after: 116.6 MB.
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2285.
+Total: 2.445400 ms (FindLiveObjects: 0.245200 ms CreateObjectMapping: 0.086500 ms MarkObjects: 1.885800 ms  DeleteObjects: 0.226900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 94.953834 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '025e4f587c23674256bb898581e82961') in 0.009917 seconds
+  Import took 0.013393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.564125 seconds.
+  path: Assets/ExternalPrefabs
+  artifactKey: Guid(dc09bcf23892ca34581e50a54807f929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalPrefabs using Guid(dc09bcf23892ca34581e50a54807f929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d0a02796d8960b946602f6d459854f6') in 0.008135 seconds
+  Import took 0.011348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002793 seconds.
+  path: Assets/ExternalPrefabs
+  artifactKey: Guid(dc09bcf23892ca34581e50a54807f929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalPrefabs using Guid(dc09bcf23892ca34581e50a54807f929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d0a02796d8960b946602f6d459854f6') in 0.002588 seconds
+  Import took 0.005675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.161814 seconds.
+  path: Assets/ExternalPrefabs/CameraCanvas.prefab
+  artifactKey: Guid(c2ed1ae171772d049a96170d02f15279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalPrefabs/CameraCanvas.prefab using Guid(c2ed1ae171772d049a96170d02f15279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f617036d15ac6ca9926246c8af30b28a') in 0.049675 seconds
+  Import took 0.054011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021089 seconds.
+  path: Assets/ExternalPrefabs/CameraCanvas.prefab
+  artifactKey: Guid(c2ed1ae171772d049a96170d02f15279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalPrefabs/CameraCanvas.prefab using Guid(c2ed1ae171772d049a96170d02f15279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f617036d15ac6ca9926246c8af30b28a') in 0.004576 seconds
+  Import took 0.007860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.745250 seconds.
+  path: Assets/ExternalPrefabs/PulseCSVReader.prefab
+  artifactKey: Guid(d55f73683d92ff846a4bedcfb00887ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalPrefabs/PulseCSVReader.prefab using Guid(d55f73683d92ff846a4bedcfb00887ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at PulseCSVReader.ComputeHeaders () [0x00054] in C:\Users\31179\Desktop\Deakin\SIT283\CardiacPacemakerTraining\Assets\PulsePhysiologyEngine\Scripts\PulseCSVReader.cs:153 
+  at PulseCSVReader.OnValidate () [0x00008] in C:\Users\31179\Desktop\Deakin\SIT283\CardiacPacemakerTraining\Assets\PulsePhysiologyEngine\Scripts\PulseCSVReader.cs:39 
+
+(Filename: Assets/PulsePhysiologyEngine/Scripts/PulseCSVReader.cs Line: 153)
+
+ -> (artifact id: '9522ec518e84b83bcfdda1bd165bf737') in 0.036656 seconds
+  Import took 0.040531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.891299 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17792fc6de047fec27fd329f597de972') in 0.009107 seconds
+  Import took 0.012311 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010256 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.08 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.13 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.755 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.12 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.7 MB.
+System memory in use after: 116.8 MB.
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2291.
+Total: 3.572300 ms (FindLiveObjects: 0.397900 ms CreateObjectMapping: 0.202900 ms MarkObjects: 2.856400 ms  DeleteObjects: 0.113100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014518 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.15 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.802 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.17 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.14 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.7 MB.
+System memory in use after: 116.8 MB.
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2295.
+Total: 2.515300 ms (FindLiveObjects: 0.306700 ms CreateObjectMapping: 0.144200 ms MarkObjects: 1.974300 ms  DeleteObjects: 0.088700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017180 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.855 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.12 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.8 MB.
+System memory in use after: 116.8 MB.
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2299.
+Total: 2.657200 ms (FindLiveObjects: 0.355500 ms CreateObjectMapping: 0.125900 ms MarkObjects: 2.061500 ms  DeleteObjects: 0.112900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 460.896438 seconds.
+  path: Assets/ExternalPrefabs/CameraCanvas.prefab
+  artifactKey: Guid(c2ed1ae171772d049a96170d02f15279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalPrefabs/CameraCanvas.prefab using Guid(c2ed1ae171772d049a96170d02f15279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93cdb5e66728179ff5f828b2567213b7') in 0.041601 seconds
+  Import took 0.045714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/ExternalPrefabs/Line.prefab
+  artifactKey: Guid(44dbb5b3e824b6747b2ea33582bc145b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalPrefabs/Line.prefab using Guid(44dbb5b3e824b6747b2ea33582bc145b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Diagnostics callstack to track who triggered the sub-import:
+0x00007ff7412484c2 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff7412b07d2 (Unity) ResolveArtifactV2
+0x00007ff74130b650 (Unity) ImportToObjects
+0x00007ff74130a888 (Unity) AssetImportWorker::Import
+0x00007ff741269e8f (Unity) <lambda_77c748ffdfab40a7d87ea62709a69e39>::operator()
+0x00007ff7413353a2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff741337500 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff74133ac8e (Unity) asio::io_service::run
+0x00007ff7412b0d10 (Unity) RunAssetImportWorkerClientV2
+0x00007ff7412b0d60 (Unity) RunAssetImporterV2
+0x00007ff7407bd086 (Unity) Application::InitializeProject
+0x00007ff74113d292 (Unity) WinMain
+0x00007ff742fb5fc6 (Unity) __scrt_common_main_seh
+0x00007ffcf5d27034 (KERNEL32) BaseThreadInitThunk
+0x00007ffcf7be2651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(44dbb5b3e824b6747b2ea33582bc145b) Importer(-1,00000000000000000000000000000000), Assets/ExternalPrefabs/Line.prefab from editor
+Resuming Guid(44dbb5b3e824b6747b2ea33582bc145b) Importer(-1,00000000000000000000000000000000) -> 00000000000000000000000000000000 (aborted)
+Diagnostics callstack to track who triggered the sub-import:
+0x00007ff7412484c2 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff7412b07d2 (Unity) ResolveArtifactV2
+0x00007ff7412ab391 (Unity) ProduceArtifactV2
+0x00007ff7412119ee (Unity) AssetDatabase::ProduceArtifact
+0x00007ff7411f77e8 (Unity) PreviewImporter::GenerateAssetData
+0x00007ff74130ba19 (Unity) ImportToObjects
+0x00007ff74130a888 (Unity) AssetImportWorker::Import
+0x00007ff741269e8f (Unity) <lambda_77c748ffdfab40a7d87ea62709a69e39>::operator()
+0x00007ff7413353a2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff741337500 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff74133ac8e (Unity) asio::io_service::run
+0x00007ff7412b0d10 (Unity) RunAssetImportWorkerClientV2
+0x00007ff7412b0d60 (Unity) RunAssetImporterV2
+0x00007ff7407bd086 (Unity) Application::InitializeProject
+0x00007ff74113d292 (Unity) WinMain
+0x00007ff742fb5fc6 (Unity) __scrt_common_main_seh
+0x00007ffcf5d27034 (KERNEL32) BaseThreadInitThunk
+0x00007ffcf7be2651 (ntdll) RtlUserThreadStart
+
+Sub-import of Guid(44dbb5b3e824b6747b2ea33582bc145b) Importer(-1,00000000000000000000000000000000), Assets/ExternalPrefabs/Line.prefab skipped because a previous one failed already
+ -> (artifact id: 'f7d2cf923d7de89de7b1bedfaf840014') in 1.567475 seconds
+  Import took 1.570537 seconds (was aborted).
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/ExternalPrefabs/CameraCanvas.prefab
+  artifactKey: Guid(c2ed1ae171772d049a96170d02f15279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalPrefabs/CameraCanvas.prefab using Guid(c2ed1ae171772d049a96170d02f15279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '674826bd90a2f39d60d7cd5514ce0a7b') in 0.006241 seconds
+  Import took 0.010401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/ExternalPrefabs/Line.prefab
+  artifactKey: Guid(44dbb5b3e824b6747b2ea33582bc145b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalPrefabs/Line.prefab using Guid(44dbb5b3e824b6747b2ea33582bc145b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e941c42de28a2d1b4cdacc1e4fd14fd5') in 0.008727 seconds
+  Import took 0.013388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.053115 seconds.
+  path: Assets/ExternalPrefabs/CameraCanvas.prefab
+  artifactKey: Guid(c2ed1ae171772d049a96170d02f15279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalPrefabs/CameraCanvas.prefab using Guid(c2ed1ae171772d049a96170d02f15279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b182969e3a592f705c069621d10a51b') in 0.006512 seconds
+  Import took 0.010832 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017049 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.13 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.532 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.12 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.8 MB.
+System memory in use after: 116.9 MB.
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2303.
+Total: 2.939900 ms (FindLiveObjects: 0.284000 ms CreateObjectMapping: 0.139500 ms MarkObjects: 2.430100 ms  DeleteObjects: 0.084700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.030499 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.70 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.27 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.886 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 2.13 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.25 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.8 MB.
+System memory in use after: 116.9 MB.
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2307.
+Total: 5.945800 ms (FindLiveObjects: 0.672700 ms CreateObjectMapping: 0.176100 ms MarkObjects: 4.626400 ms  DeleteObjects: 0.467200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014287 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.56 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.20 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.192 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.35 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.29 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.8 MB.
+System memory in use after: 116.9 MB.
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2311.
+Total: 4.142200 ms (FindLiveObjects: 0.470200 ms CreateObjectMapping: 0.224200 ms MarkObjects: 3.267600 ms  DeleteObjects: 0.177700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 6478.709456 seconds.
+  path: Assets/PulsePhysiologyEngine/Scripts/PulseActionOnClick.cs
+  artifactKey: Guid(56f90361cff9cf441a1684dd4dfb4ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PulsePhysiologyEngine/Scripts/PulseActionOnClick.cs using Guid(56f90361cff9cf441a1684dd4dfb4ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6a5df9878c98ec14dabd9c02c528741') in 0.022480 seconds
+  Import took 0.027038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001048 seconds.
+  path: Assets/PulsePhysiologyEngine/Scripts/PulseActionOnClick.cs
+  artifactKey: Guid(56f90361cff9cf441a1684dd4dfb4ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PulsePhysiologyEngine/Scripts/PulseActionOnClick.cs using Guid(56f90361cff9cf441a1684dd4dfb4ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6a5df9878c98ec14dabd9c02c528741') in 0.006093 seconds
+  Import took 0.012496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.486882 seconds.
+  path: Assets/PulsePhysiologyEngine/Scripts/PulseCSVReader.cs
+  artifactKey: Guid(63a942fb8798b4041921f82e0f1d37ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PulsePhysiologyEngine/Scripts/PulseCSVReader.cs using Guid(63a942fb8798b4041921f82e0f1d37ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c98a4c10924bb17afeec11c8e1bad6d') in 0.005297 seconds
+  Import took 0.009988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.391444 seconds.
+  path: Assets/PulsePhysiologyEngine/Scripts/PulseData.cs
+  artifactKey: Guid(8c300108eb8c4b144a3c57c88e71fca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PulsePhysiologyEngine/Scripts/PulseData.cs using Guid(8c300108eb8c4b144a3c57c88e71fca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fb926c366e93e7af9acdede5acd78f2') in 0.013335 seconds
+  Import took 0.018173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000729 seconds.
+  path: Assets/PulsePhysiologyEngine/Scripts/PulseData.cs
+  artifactKey: Guid(8c300108eb8c4b144a3c57c88e71fca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PulsePhysiologyEngine/Scripts/PulseData.cs using Guid(8c300108eb8c4b144a3c57c88e71fca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fb926c366e93e7af9acdede5acd78f2') in 0.004442 seconds
+  Import took 0.010399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.845351 seconds.
+  path: Assets/PulsePhysiologyEngine/Scripts/PulseDataConsumer.cs
+  artifactKey: Guid(2c5a72f90217b244c9659b5d394341b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PulsePhysiologyEngine/Scripts/PulseDataConsumer.cs using Guid(2c5a72f90217b244c9659b5d394341b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62a3ae069542203777e73ecd963072b0') in 0.017510 seconds
+  Import took 0.024566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.079071 seconds.
+  path: Assets/PulsePhysiologyEngine/Scripts/PulseDataLineRenderer.cs
+  artifactKey: Guid(95be0a7f3ee49f7438177e97c70f28b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PulsePhysiologyEngine/Scripts/PulseDataLineRenderer.cs using Guid(95be0a7f3ee49f7438177e97c70f28b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f976380c6d5a59d67adbbada60357222') in 0.016557 seconds
+  Import took 0.024061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001844 seconds.
+  path: Assets/PulsePhysiologyEngine/Scripts/PulseDataLineRenderer.cs
+  artifactKey: Guid(95be0a7f3ee49f7438177e97c70f28b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PulsePhysiologyEngine/Scripts/PulseDataLineRenderer.cs using Guid(95be0a7f3ee49f7438177e97c70f28b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f976380c6d5a59d67adbbada60357222') in 0.006036 seconds
+  Import took 0.012212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 208.038989 seconds.
+  path: Assets/PulsePhysiologyEngine/Scripts/Editor/PulseDataConsumerEditor.cs
+  artifactKey: Guid(d81b7328b0ae2cf438d626021c468fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PulsePhysiologyEngine/Scripts/Editor/PulseDataConsumerEditor.cs using Guid(d81b7328b0ae2cf438d626021c468fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f26b9528a8766e696627f8444ce1a13d') in 0.019100 seconds
+  Import took 0.025683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.958969 seconds.
+  path: Assets/PulsePhysiologyEngine/Scripts/Editor/PulseEngineControllerEditor.cs
+  artifactKey: Guid(97798777e480b304aa00bdee99f66427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PulsePhysiologyEngine/Scripts/Editor/PulseEngineControllerEditor.cs using Guid(97798777e480b304aa00bdee99f66427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '692ec0fbed2a20d266d12af837bc8926') in 0.017837 seconds
+  Import took 0.024863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.169544 seconds.
+  path: Assets/PulsePhysiologyEngine/Scripts/Editor/PulseEngineDriverEditor.cs
+  artifactKey: Guid(5cf45ca852602e34bb998689e88a3502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PulsePhysiologyEngine/Scripts/Editor/PulseEngineDriverEditor.cs using Guid(5cf45ca852602e34bb998689e88a3502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ec4b1a1c3dd89a9e222bce66e588465') in 0.013153 seconds
+  Import took 0.019016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002984 seconds.
+  path: Assets/PulsePhysiologyEngine/Scripts/Editor/PulseEngineDriverEditor.cs
+  artifactKey: Guid(5cf45ca852602e34bb998689e88a3502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PulsePhysiologyEngine/Scripts/Editor/PulseEngineDriverEditor.cs using Guid(5cf45ca852602e34bb998689e88a3502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ec4b1a1c3dd89a9e222bce66e588465') in 0.005679 seconds
+  Import took 0.011907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.230885 seconds.
+  path: Assets/PulsePhysiologyEngine/Scripts/Editor/PulseActionOnClickEditor.cs
+  artifactKey: Guid(7b05186d8d38966468a76f42f21a9bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PulsePhysiologyEngine/Scripts/Editor/PulseActionOnClickEditor.cs using Guid(7b05186d8d38966468a76f42f21a9bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5a8832546b6607ad5da7544549de7ab') in 0.078186 seconds
+  Import took 0.104010 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015768 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.15 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.13 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.918 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.26 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.16 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.8 MB.
+System memory in use after: 116.9 MB.
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2315.
+Total: 2.848700 ms (FindLiveObjects: 0.344800 ms CreateObjectMapping: 0.101400 ms MarkObjects: 2.306300 ms  DeleteObjects: 0.094600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014219 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.035 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.73 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.13 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.8 MB.
+System memory in use after: 116.9 MB.
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2319.
+Total: 3.006100 ms (FindLiveObjects: 0.250400 ms CreateObjectMapping: 0.093700 ms MarkObjects: 2.530100 ms  DeleteObjects: 0.130300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012170 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.02 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.13 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.658 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.43 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.15 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.8 MB.
+System memory in use after: 116.9 MB.
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2323.
+Total: 2.950600 ms (FindLiveObjects: 0.300400 ms CreateObjectMapping: 0.105900 ms MarkObjects: 2.363300 ms  DeleteObjects: 0.179500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012818 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.94 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.26 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.159 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.18 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.8 MB.
+System memory in use after: 116.9 MB.
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2327.
+Total: 3.724100 ms (FindLiveObjects: 0.321800 ms CreateObjectMapping: 0.108700 ms MarkObjects: 2.500800 ms  DeleteObjects: 0.790900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017237 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.785 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.41 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.13 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.8 MB.
+System memory in use after: 116.9 MB.
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2331.
+Total: 2.916200 ms (FindLiveObjects: 0.304200 ms CreateObjectMapping: 0.099800 ms MarkObjects: 2.400600 ms  DeleteObjects: 0.109900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015753 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.27 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.19 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.530 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.11 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.8 MB.
+System memory in use after: 116.9 MB.
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2335.
+Total: 2.606700 ms (FindLiveObjects: 0.268000 ms CreateObjectMapping: 0.084300 ms MarkObjects: 2.134800 ms  DeleteObjects: 0.118300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 5183.664330 seconds.
+  path: Assets/SoundEffect
+  artifactKey: Guid(6fa8a2c57416b044a91e15e6126a5122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SoundEffect using Guid(6fa8a2c57416b044a91e15e6126a5122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73597ff8f57c678d604dfae545068471') in 0.014511 seconds
+  Import took 0.019372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000506 seconds.
+  path: Assets/SoundEffect
+  artifactKey: Guid(6fa8a2c57416b044a91e15e6126a5122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SoundEffect using Guid(6fa8a2c57416b044a91e15e6126a5122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73597ff8f57c678d604dfae545068471') in 0.003643 seconds
+  Import took 0.007578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.032528 seconds.
+  path: Assets/SoundEffect/mixkit-fast-heartbeat-493.wav
+  artifactKey: Guid(95e6fa4c6ded62c46a03acbd0a7c98ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SoundEffect/mixkit-fast-heartbeat-493.wav using Guid(95e6fa4c6ded62c46a03acbd0a7c98ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dd3c4bb95728e6f0eda82c5e54a95ba') in 0.100532 seconds
+  Import took 0.104269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/SoundEffect/mixkit-slow-heartbeat-494.wav
+  artifactKey: Guid(41a1bb102f0618b44b1356e9a534f7f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SoundEffect/mixkit-slow-heartbeat-494.wav using Guid(41a1bb102f0618b44b1356e9a534f7f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f6114c076e1c0e8e3ce10ae65813384') in 0.018650 seconds
+  Import took 0.023370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/SoundEffect/mixkit-heartbeat-medium-speed-495.wav
+  artifactKey: Guid(2321a13560856244da4df973155ee977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SoundEffect/mixkit-heartbeat-medium-speed-495.wav using Guid(2321a13560856244da4df973155ee977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '078793206ae01c0d10178f19a7239711') in 0.021163 seconds
+  Import took 0.025735 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.018355 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.64 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.20 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.743 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.11 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 117.1 MB.
+System memory in use after: 117.1 MB.
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2340.
+Total: 3.438300 ms (FindLiveObjects: 0.292300 ms CreateObjectMapping: 0.184700 ms MarkObjects: 2.782800 ms  DeleteObjects: 0.176600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009660 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.18 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.045 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.11 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 117.1 MB.
+System memory in use after: 117.2 MB.
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2344.
+Total: 2.942600 ms (FindLiveObjects: 0.427500 ms CreateObjectMapping: 0.139600 ms MarkObjects: 2.253800 ms  DeleteObjects: 0.119500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011275 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.18 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.20 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.167 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.11 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 117.1 MB.
+System memory in use after: 117.2 MB.
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2348.
+Total: 2.810700 ms (FindLiveObjects: 0.253200 ms CreateObjectMapping: 0.089700 ms MarkObjects: 2.357600 ms  DeleteObjects: 0.108700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
